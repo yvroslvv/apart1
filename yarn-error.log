@@ -1,0 +1,36 @@
+Arguments: 
+  /home/adc/.nvm/versions/node/v16.9.1/bin/node /usr/share/yarn/bin/yarn.js add --dev webpack-dev-server@^3
+
+PATH: 
+  /home/adc/.rbenv/versions/2.7.4/lib/ruby/gems/2.7.0/bin:/home/adc/.rbenv/versions/2.7.4/bin:/home/adc/.rbenv/libexec:/home/adc/.rbenv/plugins/ruby-build/bin:/home/adc/.nvm/versions/node/v16.9.1/bin:/home/adc/.rbenv/shims:/home/adc/.rbenv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+
+Yarn version: 
+  1.22.5
+
+Node version: 
+  16.9.1
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: EPROTO: protocol error, symlink '../../../multicast-dns/cli.js' -> '/media/sf_Share/playground/node_modules/bonjour/node_modules/.bin/multicast-dns'
+
+npm manifest: 
+  {
+    "name": "playground",
+    "private": true,
+    "dependencies": {
+      "@rails/ujs": "^6.0.0",
+      "turbolinks": "^5.2.0",
+      "@rails/activestorage": "^6.0.0",
+      "@rails/actioncable": "^6.0.0"
+    },
+    "version": "0.1.0"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
